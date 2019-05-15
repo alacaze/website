@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beliefs on Adam La Caze</title>
+    <link>/tags/beliefs/</link>
+    <description>Recent content in Beliefs on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/beliefs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Better understanding the influence and complexity of beliefs on medication adherence in asthma</title>
+      <link>/publication/foot-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/foot-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

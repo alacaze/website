@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference symposia on Adam La Caze</title>
+    <link>/tags/conference-symposia/</link>
+    <description>Recent content in conference symposia on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/conference-symposia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The ethics of selling complementary medicines</title>
+      <link>/publication/apsa-ethics-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/apsa-ethics-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing drug safety: Workshop</title>
+      <link>/publication/apsaascept-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/apsaascept-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

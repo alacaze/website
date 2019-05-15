@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer Tio on Adam La Caze</title>
+    <link>/authors/jennifer-tio/</link>
+    <description>Recent content in Jennifer Tio on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/authors/jennifer-tio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ascertaining consumer perspectives of medication information sources using a modified repertory grid technique</title>
+      <link>/publication/tio-2007-fj/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/tio-2007-fj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pharmacy practice on Adam La Caze</title>
+    <link>/tags/pharmacy-practice/</link>
+    <description>Recent content in pharmacy practice on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/pharmacy-practice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ethical responsibilities of pharmacists when selling complementary medicines: a systematic review</title>
+      <link>/publication/salman-popattia-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/salman-popattia-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

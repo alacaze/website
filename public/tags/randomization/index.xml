@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Randomization on Adam La Caze</title>
+    <link>/tags/randomization/</link>
+    <description>Recent content in Randomization on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/randomization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Randomized Interventional Studies</title>
+      <link>/publication/la-caze-2013-hz/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2013-hz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What does randomisation acheive?</title>
+      <link>/publication/la-caze-2011-fu/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2011-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence-based medicine must be ...</title>
+      <link>/publication/la-caze-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence-based Medicine Can&#39;t Be łdots</title>
+      <link>/publication/la-caze-2008-p-381/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2008-p-381/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

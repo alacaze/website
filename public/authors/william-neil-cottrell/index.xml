@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Neil Cottrell on Adam La Caze</title>
+    <link>/authors/william-neil-cottrell/</link>
+    <description>Recent content in William Neil Cottrell on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/authors/william-neil-cottrell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do we better translate adherence research into improvements in patient care?</title>
+      <link>/publication/la-caze-2014-gc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2014-gc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

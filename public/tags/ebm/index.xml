@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ebm on Adam La Caze</title>
+    <link>/tags/ebm/</link>
+    <description>Recent content in ebm on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/ebm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evidence-based medicine must be ...</title>
+      <link>/publication/la-caze-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence-based Medicine Can&#39;t Be łdots</title>
+      <link>/publication/la-caze-2008-p-381/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2008-p-381/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

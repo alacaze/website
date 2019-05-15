@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>randomized controlled studies on Adam La Caze</title>
+    <link>/tags/randomized-controlled-studies/</link>
+    <description>Recent content in randomized controlled studies on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/randomized-controlled-studies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Randomized Interventional Studies</title>
+      <link>/publication/la-caze-2013-hz/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2013-hz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

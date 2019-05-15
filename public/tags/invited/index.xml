@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>invited on Adam La Caze</title>
+    <link>/tags/invited/</link>
+    <description>Recent content in invited on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/invited/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skills for better appraising evidence of drug harms</title>
+      <link>/publication/shpacpd-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/shpacpd-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why we need a theory of evidence for assessing drug harms</title>
+      <link>/publication/griffithseminar-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/griffithseminar-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating evidence in drug safety</title>
+      <link>/publication/lmu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/lmu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics for applying evidence from pharmaceutical trials: use and misuse</title>
+      <link>/publication/logan-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/logan-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence, EBM and therapeutic decisions</title>
+      <link>/publication/shpacpd-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/shpacpd-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Levels of evidence: help of hindrance?</title>
+      <link>/publication/la-spine-2010/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-spine-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medicines, genetics and the justification of cost-effectiveness analysis</title>
+      <link>/publication/la-caze-2006-fv/</link>
+      <pubDate>Fri, 01 Dec 2006 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2006-fv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

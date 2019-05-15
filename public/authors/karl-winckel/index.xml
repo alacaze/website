@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karl Winckel on Adam La Caze</title>
+    <link>/authors/karl-winckel/</link>
+    <description>Recent content in Karl Winckel on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/authors/karl-winckel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simulation study to assess the possible contribution of measurement error in quetiapine depression trials</title>
+      <link>/publication/apsa-quet-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/apsa-quet-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

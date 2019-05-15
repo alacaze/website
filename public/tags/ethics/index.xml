@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics on Adam La Caze</title>
+    <link>/tags/ethics/</link>
+    <description>Recent content in Ethics on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ethical responsibilities of pharmacists when selling complementary medicines: a systematic review</title>
+      <link>/publication/salman-popattia-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/salman-popattia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expectations and responsibilities regarding the sale of complementary medicines in pharmacies: perspectives of consumers and pharmacy support staff</title>
+      <link>/publication/iyer-2016-b/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/iyer-2016-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

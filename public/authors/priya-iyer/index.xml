@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Priya Iyer on Adam La Caze</title>
+    <link>/authors/priya-iyer/</link>
+    <description>Recent content in Priya Iyer on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/authors/priya-iyer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expectations and responsibilities regarding the sale of complementary medicines in pharmacies: perspectives of consumers and pharmacy support staff</title>
+      <link>/publication/iyer-2016-b/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/iyer-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacy, professional responsibility and complementary medicines</title>
+      <link>/publication/cm-ethics-apsa/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/cm-ethics-apsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

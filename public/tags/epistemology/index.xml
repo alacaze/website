@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epistemology on Adam La Caze</title>
+    <link>/tags/epistemology/</link>
+    <description>Recent content in epistemology on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/epistemology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The use of mechanistic evidence in drug approval</title>
+      <link>/publication/aronson-2018-a/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/aronson-2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

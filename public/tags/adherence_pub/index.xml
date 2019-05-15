@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adherence_pub on Adam La Caze</title>
+    <link>/tags/adherence_pub/</link>
+    <description>Recent content in adherence_pub on Adam La Caze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/adherence_pub/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Validated adherence scales used in a measurement-guided medication management approach to target and tailor a medication adherence intervention: a randomised controlled trial</title>
+      <link>/publication/nguyen-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/nguyen-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The necessity–concerns framework predicts adherence to medication in multiple illness conditions: A meta-analysis</title>
+      <link>/publication/foot-2015/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/foot-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What are validated self-report adherence scales really measuring?: a systematic review</title>
+      <link>/publication/nguyen-2013-wl/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/nguyen-2013-wl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do we better translate adherence research into improvements in patient care?</title>
+      <link>/publication/la-caze-2014-gc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2014-gc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adherence and Beliefs</title>
+      <link>/publication/la-caze-2012-vp/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/la-caze-2012-vp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
