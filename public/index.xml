@@ -110,10 +110,28 @@
     <item>
       <title>Uncertainty in Pharmacology: Epistemology, Methods and Decisions</title>
       <link>/publication/uncertpharm/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1000</pubDate>
       
       <guid>/publication/uncertpharm/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence and Medicines</title>
+      <link>/project/evidence-and-medicines/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/evidence-and-medicines/</guid>
+      <description>&lt;p&gt;I am interested in the ways in which evidence from the biomedical sciences is used to inform individual therapeutic decisions. This leads to much broader questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the relationship between different types of biomedical evidence, including the mechanisms of basic medical science, evidence from randomized studies and the outputs of modelling and simulation approaches?&lt;/li&gt;
+&lt;li&gt;How should we characterise “causation” in the biomedical sciences? What types of evidence give good grounds for inferring causal relationships?&lt;/li&gt;
+&lt;li&gt;What are the barriers in translating advances in the basic sciences to improvements in health?—how do we overcome them?&lt;/li&gt;
+&lt;li&gt;What conditions are necessary for a successful confirmatory randomized trial?&lt;/li&gt;
+&lt;li&gt;When are randomized trials ethically permissible?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -390,7 +408,7 @@ $$&lt;/p&gt;
     <item>
       <title>The use of mechanistic evidence in drug approval</title>
       <link>/publication/aronson-2018/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +1000</pubDate>
       
       <guid>/publication/aronson-2018/</guid>
       <description></description>
@@ -399,7 +417,7 @@ $$&lt;/p&gt;
     <item>
       <title>Better understanding the influence and complexity of beliefs on medication adherence in asthma</title>
       <link>/publication/foot-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1000</pubDate>
       
       <guid>/publication/foot-2018/</guid>
       <description></description>
@@ -408,7 +426,7 @@ $$&lt;/p&gt;
     <item>
       <title>Ethical responsibilities of pharmacists when selling complementary medicines: a systematic review</title>
       <link>/publication/salman-popattia-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1000</pubDate>
       
       <guid>/publication/salman-popattia-2018/</guid>
       <description></description>
@@ -417,7 +435,7 @@ $$&lt;/p&gt;
     <item>
       <title>Safer dispensing labels for prescription medicines</title>
       <link>/publication/la-caze-2018-a/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2018-a/</guid>
       <description></description>
@@ -426,7 +444,7 @@ $$&lt;/p&gt;
     <item>
       <title>Expectations and responsibilities regarding the sale of complementary medicines in pharmacies: perspectives of consumers and pharmacy support staff</title>
       <link>/publication/iyer-2016-b/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +1000</pubDate>
       
       <guid>/publication/iyer-2016-b/</guid>
       <description></description>
@@ -435,7 +453,7 @@ $$&lt;/p&gt;
     <item>
       <title>The randomized controlled trial: internal and external validity</title>
       <link>/publication/rout-philof-med/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1000</pubDate>
       
       <guid>/publication/rout-philof-med/</guid>
       <description></description>
@@ -444,7 +462,7 @@ $$&lt;/p&gt;
     <item>
       <title>Validated adherence scales used in a measurement-guided medication management approach to target and tailor a medication adherence intervention: a randomised controlled trial</title>
       <link>/publication/nguyen-2016/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +1000</pubDate>
       
       <guid>/publication/nguyen-2016/</guid>
       <description></description>
@@ -809,7 +827,7 @@ $$&lt;/p&gt;
     <item>
       <title>A challenge for Evidence-Based Policy</title>
       <link>/publication/la-caze-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2016/</guid>
       <description></description>
@@ -818,7 +836,7 @@ $$&lt;/p&gt;
     <item>
       <title>Frequentism in probability theory</title>
       <link>/publication/handbook-prob/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1000</pubDate>
       
       <guid>/publication/handbook-prob/</guid>
       <description></description>
@@ -827,7 +845,7 @@ $$&lt;/p&gt;
     <item>
       <title>The hierarchy of evidence and quantum theory</title>
       <link>/publication/la-caze-2015/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2015/</guid>
       <description></description>
@@ -836,7 +854,7 @@ $$&lt;/p&gt;
     <item>
       <title>The necessity--concerns framework predicts adherence to medication in multiple illness conditions: A meta-analysis</title>
       <link>/publication/foot-2015/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1000</pubDate>
       
       <guid>/publication/foot-2015/</guid>
       <description></description>
@@ -918,7 +936,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Funding issues and options for pharmacists providing sessional services to rural hospitals in Australia.</title>
       <link>/publication/tan-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1000</pubDate>
       
       <guid>/publication/tan-2015/</guid>
       <description></description>
@@ -927,7 +945,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Cross-sector, sessional employment of pharmacists in rural hospitals in Australia and New Zealand: a qualitative study exploring pharmacists&#39; perceptions and experiences.</title>
       <link>/publication/tan-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1000</pubDate>
       
       <guid>/publication/tan-2014/</guid>
       <description></description>
@@ -936,7 +954,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>How do we better translate adherence research into improvements in patient care?</title>
       <link>/publication/la-caze-2014-gc/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2014-gc/</guid>
       <description></description>
@@ -945,7 +963,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Utilisation trends of rosiglitazone and pioglitazone in Australia before and after safety warnings.</title>
       <link>/publication/niyomnaitham-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1000</pubDate>
       
       <guid>/publication/niyomnaitham-2014/</guid>
       <description></description>
@@ -954,7 +972,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>What are validated self-report adherence scales really measuring? A systematic review</title>
       <link>/publication/nguyen-2013-wl/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1000</pubDate>
       
       <guid>/publication/nguyen-2013-wl/</guid>
       <description></description>
@@ -985,7 +1003,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Why randomised interventional studies</title>
       <link>/publication/why-rand/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +1000</pubDate>
       
       <guid>/publication/why-rand/</guid>
       <description></description>
@@ -994,7 +1012,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Adherence and Beliefs</title>
       <link>/publication/la-caze-2012-ly/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2012-ly/</guid>
       <description></description>
@@ -1003,7 +1021,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>What does randomisation acheive?</title>
       <link>/publication/la-caze-2011-fu/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2011-fu/</guid>
       <description></description>
@@ -1012,7 +1030,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>The role of basic science in evidence-based medicine</title>
       <link>/publication/la-caze-2011-ib/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2011-ib/</guid>
       <description></description>
@@ -1021,7 +1039,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Estimating risk from underpowered, but statistically significant, studies: was APPROVe on TARGET?</title>
       <link>/publication/la-caze-2010-hm/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2010-hm/</guid>
       <description></description>
@@ -1030,7 +1048,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Evidence Based Medicine Must Be łdots</title>
       <link>/publication/la-caze-2008-zk/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2008-zk/</guid>
       <description></description>
@@ -1039,7 +1057,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>A problem for achieving informed consent</title>
       <link>/publication/la-caze-2008-jt/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2008-jt/</guid>
       <description></description>
@@ -1048,7 +1066,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Evidence-based Medicine Can&#39;t Be łdots</title>
       <link>/publication/la-caze-2008-qt/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2008-qt/</guid>
       <description></description>
@@ -1057,7 +1075,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Ascertaining consumer perspectives of medication information sources using a modified repertory grid technique</title>
       <link>/publication/tio-2007-fj/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1000</pubDate>
       
       <guid>/publication/tio-2007-fj/</guid>
       <description></description>
@@ -1066,7 +1084,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Probabilities all the way down [Review of R. Jeffrey, Subjective Probability: The Real Thing]</title>
       <link>/publication/la-caze-2006-uq/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2006-uq/</guid>
       <description></description>
@@ -1075,7 +1093,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Does pharmacogenomics provide an ethical challenge to the utilisation of cost-effectiveness analysis by public health systems?</title>
       <link>/publication/la-caze-2005-uq/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +1000</pubDate>
       
       <guid>/publication/la-caze-2005-uq/</guid>
       <description></description>
@@ -1084,7 +1102,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Support needs of supply nurses in rual and remote Queensland</title>
       <link>/publication/fiori-2005-qy/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +1000</pubDate>
       
       <guid>/publication/fiori-2005-qy/</guid>
       <description></description>
@@ -1093,7 +1111,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Variations in demographics and risk factors of patient populations prescribed cyclo-oxygenase-2 selective and non-selective non-steroidal anti-inflammatory drugs</title>
       <link>/publication/cutts-2003-kx/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +1000</pubDate>
       
       <guid>/publication/cutts-2003-kx/</guid>
       <description></description>
@@ -1102,7 +1120,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>A clinical audit of the prescribing of celecoxib and rofecoxib in Australian rural general practice</title>
       <link>/publication/cutts-2002-fj/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +1000</pubDate>
       
       <guid>/publication/cutts-2002-fj/</guid>
       <description></description>
@@ -1111,7 +1129,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Using clinical audit to identify and change high-risk NSAID prescribing</title>
       <link>/publication/cutts-2002-yq/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +1000</pubDate>
       
       <guid>/publication/cutts-2002-yq/</guid>
       <description></description>

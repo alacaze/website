@@ -1,0 +1,12 @@
++++
+title = "Cross-sector, sessional employment of pharmacists in rural hospitals in Australia and New Zealand: a qualitative study exploring pharmacists' perceptions and experiences."
+date = 2014-01-01
+authors = ["Amy Tan", "Lynne M Emmerton", "H Laetitia Hattingh", "Adam La Caze"]
+publication_types = ["2"]
+abstract = "BackgroundMany rural hospitals in Australia and New Zealand do not have an on-site pharmacist. Sessional employment of a local pharmacist offers a potential solution to address the clinical service needs of non-pharmacist rural hospitals. This study explored sessional service models involving pharmacists and factors (enablers and challenges) impacting on these models, with a view to informing future sessional employment.MethodsA series of semi-structured one-on-one interviews was conducted with rural pharmacists with experience, or intention to practise, in a sessional employment role in Australia and New Zealand. Participants were identified via relevant newsletters, discussion forums and referrals from contacts. Interviews were conducted during August 2012-January 2013 via telephone or Skype¿, for approximately 40¿55 minutes each, and recorded.ResultsSeventeen pharmacists were interviewed: eight with ongoing sessional roles, five with sessional experience, and four working towards sessional employment. Most participants provided sessional hospital services on a weekly basis, mainly focusing on inpatient medication review and consultation. Recognition of the value of pharmacists¿ involvement and engagement with other healthcare providers facilitated establishment and continuity of sessional services. Funds pooled from various sources supplemented some pharmacists¿ remuneration in the absence of designated government funding. Enhanced employment opportunities, district support and flexibility in services facilitated the continuous operation of the sessional service.ConclusionsThere is potential to address clinical pharmacy service needs in rural hospitals by cross-sector employment of pharmacists. The reported sessional model arrangements, factors impacting on sessional employment of pharmacists and learnings shared by the participants should assist development of similar models in other rural communities."
+featured = false
+publication = "*BMC Health Services Research*"
+url_pdf = "http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4236748&tool=pmcentrez&rendertype=abstract"
+doi = "10.1186/s12913-014-0567-4"
++++
+
