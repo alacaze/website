@@ -6,10 +6,19 @@
     <description>Recent content in 1 on Adam La Caze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Randomized trials are not black boxes</title>
+      <link>/talk/blackbox-presentation/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/blackbox-presentation/</guid>
+      <description>Randomized trials are frequently treated as if they are a black box, but they are not.</description>
+    </item>
     
     <item>
       <title>An example conference paper</title>

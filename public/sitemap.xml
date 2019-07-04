@@ -3,850 +3,872 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>/teaching/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>/teaching/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>/teaching/example/posology/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/5/</loc>
-    <lastmod>2020-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/adam-la-caze/</loc>
-    <lastmod>2020-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/barbara-osimani/</loc>
-    <lastmod>2020-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-01T00:00:00+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/uncertpharm/</loc>
-    <lastmod>2020-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/evidence-and-medicines/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/evidence-and-medicines/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/talk/blackbox-presentation/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/tags/phrm2011/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/teaching/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/evidence-and-medicines/</loc>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
   </url>
   
   <url>
     <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
   </url>
   
   <url>
     <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2018-06-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jeffrey-k.-aronson/</loc>
-    <lastmod>2018-06-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jon-williamson/</loc>
-    <lastmod>2018-06-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/michael-p.-kelly/</loc>
-    <lastmod>2018-06-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/aronson-2018/</loc>
-    <lastmod>2018-06-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/veli-pekka-parkkinen/</loc>
-    <lastmod>2018-06-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/a.-la-caze/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/amber-salman-popattia/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/asthma/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/beliefs/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/beliefs-about-medicines/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/foot-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/salman-popattia-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/holly-foot/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/illness-perceptions/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/locus-of-control-beliefs/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/medication-adherence/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/medication-errors/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/neil-cottrell/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/peter-baker/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/product-labelling/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/la-caze-2018-a/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/sarah-winch/</loc>
-    <lastmod>2018-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/complementary-medicines/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/ethics/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/iyer-2016-b/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/pharmacist-responsibility/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/pharmacy/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/pharmacy-support-staff/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/priya-iyer/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/reanna-mcfarland/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/responsibility/</loc>
-    <lastmod>2017-08-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/6/</loc>
-    <lastmod>2017-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/rout-philof-med/</loc>
-    <lastmod>2017-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/thi-my-uyen-nguyen/</loc>
-    <lastmod>2016-11-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/nguyen-2016/</loc>
-    <lastmod>2016-11-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/adherence_pub/</loc>
-    <lastmod>2016-11-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/la-caze-2016/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/evidence/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/evidence-based-medicine/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/evidence-based-policy/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/handbook-prob/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/gina-gujral/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/mark-colyvan/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/public-policy/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/randomized-controlled-trials/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/la-caze-2015/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/foot-2015/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/beliefs-about-medicines-questionnaire/</loc>
-    <lastmod>2016-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-05-15T17:15:43+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-05-15T17:15:43+10:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-05-15T17:15:43+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-05-15T17:15:43+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-05-15T17:15:43+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-05-15T17:15:43+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/amy-tan/</loc>
-    <lastmod>2015-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/tan-2015/</loc>
-    <lastmod>2015-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/h-laetitia-hattingh/</loc>
-    <lastmod>2015-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/lynne-m-emmerton/</loc>
-    <lastmod>2015-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/adverse-drug-reaction-reporting-systems/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/alesha-j-smith/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/andrew-page/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/australia/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/australia-epidemiology/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/tan-2014/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/diabetes-mellitus/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/drug-interactions/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/la-caze-2014-gc/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/humans/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/hypoglycemic-agents/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/hypoglycemic-agents-adverse-effects/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/hypoglycemic-agents-therapeutic-use/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/karen-whitfield/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/n.-cottrell/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/risk/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/risk-factors/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/suvimol-niyomnaitham/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/t.-m.-u-nguyen/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/thiazolidinediones/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/thiazolidinediones-adverse-effects/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/thiazolidinediones-therapeutic-use/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/type-2/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/type-2-drug-therapy/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/niyomnaitham-2014/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/nguyen-2013-wl/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/william-neil-cottrell/</loc>
-    <lastmod>2014-01-01T00:00:00+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/adam-la~caze/</loc>
-    <lastmod>2013-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/why-rand/</loc>
-    <lastmod>2013-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/la-caze-2012-ly/</loc>
-    <lastmod>2012-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/benjamin-djulbegovic/</loc>
-    <lastmod>2012-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/stephen-senn/</loc>
-    <lastmod>2012-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/la-caze-2011-fu/</loc>
-    <lastmod>2012-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/la-caze-2011-ib/</loc>
-    <lastmod>2011-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/a-la~caze/</loc>
-    <lastmod>2010-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/la-caze-2010-hm/</loc>
-    <lastmod>2010-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/s-duffull/</loc>
-    <lastmod>2010-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/la-caze-2008-zk/</loc>
-    <lastmod>2009-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/la-caze-2008-jt/</loc>
-    <lastmod>2008-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/la-caze-2008-qt/</loc>
-    <lastmod>2008-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/tio-2007-fj/</loc>
-    <lastmod>2007-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jennifer-tio/</loc>
-    <lastmod>2007-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/la-caze-2006-uq/</loc>
-    <lastmod>2006-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/christopher-cutts/</loc>
-    <lastmod>2005-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/la-caze-2005-uq/</loc>
-    <lastmod>2005-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/kieran-behan/</loc>
-    <lastmod>2005-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/rita-damore/</loc>
-    <lastmod>2005-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sanam-souzani/</loc>
-    <lastmod>2005-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/steven-fiori/</loc>
-    <lastmod>2005-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/fiori-2005-qy/</loc>
-    <lastmod>2005-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/susan-tett/</loc>
-    <lastmod>2003-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/cutts-2003-kx/</loc>
-    <lastmod>2003-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/cutts-2002-fj/</loc>
-    <lastmod>2002-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/cutts-2002-yq/</loc>
-    <lastmod>2002-01-01T00:00:00+10:00</lastmod>
+    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-05-15T17:08:36+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
   </url>
   
 </urlset>

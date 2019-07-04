@@ -6,10 +6,18 @@
     <description>Recent content on Adam La Caze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Randomized trials are not black boxes</title>
+      <link>/talk/blackbox-presentation/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/blackbox-presentation/</guid>
+      <description>Randomized trials are frequently treated as if they are a black box, but they are not.</description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -59,7 +67,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>I am a clinical pharmacist with a PhD in the philosophy of science. I teach professional practice, therapeutics, clinical epidemiology, critical appraisal and ethics.

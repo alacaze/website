@@ -13,10 +13,10 @@
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>/teaching/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/courses/example/example1/</guid>
+      <guid>/teaching/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,10 +49,317 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>/teaching/example/posology/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/example/posology/</guid>
+      <description>
+
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Posology: that part of medicine concerned with dosage&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Develop a process for determining an appropriate dose for a patient&lt;/li&gt;
+&lt;li&gt;Know the strengths and weaknesses of key pharmacy dosing resources&lt;/li&gt;
+&lt;li&gt;Judiciously apply general principles for assessing whether a patient&amp;rsquo;s dose is appropriate&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&#34;question&#34;&gt;The drugs mentioned as examples are drugs you need to know for PHRM2011&lt;/p&gt; 
+
+&lt;h2 id=&#34;learning-resources&#34;&gt;Learning Resources&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://amhonline-amh-net-au.ezproxy.library.uq.edu.au/&#34; target=&#34;_blank&#34;&gt;AMH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;APF, including &amp;ldquo;Dose calculations for children&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://library.uq.edu.au/search~S7?/tmims+online/tmims+online/1%2C1%2C2%2CB/eresource&amp;amp;FF=tmims+online&amp;amp;1%2C%2C2&#34; target=&#34;_blank&#34;&gt;MIMS online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://online.tg.org.au.ezproxy.library.uq.edu.au/ip/desktop/index.htm&#34; target=&#34;_blank&#34;&gt;e-TG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nps.org.au/bemedicinewise/children&#34; target=&#34;_blank&#34;&gt;http://www.nps.org.au/bemedicinewise/children&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&#34;question&#34;&gt;Have a look at each of these resources.&lt;/p&gt; 
+
+&lt;p class=&#34;question&#34;&gt;Leave the AMH open in a browser (you are about to use it)&lt;/p&gt; 
+
+&lt;div class=&#34;notes&#34;&gt;
+AMH, MIMS and e-TG are each available online via the library.
+You need your own version of the APF.
+
+Always use current editions of resources when assessing doses.
+&lt;/div&gt;
+
+&lt;h1 id=&#34;overall-process-with-worked-example&#34;&gt;Overall Process with Worked Example&lt;/h1&gt;
+
+&lt;h2 id=&#34;overall-process&#34;&gt;Overall Process&lt;/h2&gt;
+
+&lt;p class=&#34;question&#34;&gt;
+Determine drug, form, dose, duration
+&lt;/p&gt;
+
+&lt;p&gt;Then ask:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Who is the patient?&lt;/li&gt;
+&lt;li&gt;What is the indication?&lt;/li&gt;
+&lt;li&gt;What is the recommended dose?&lt;/li&gt;
+&lt;li&gt;Assess the recommended dose against the prescribed dose&lt;/li&gt;
+&lt;li&gt;Are there additional considerations?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;worked-example&#34;&gt;Worked Example&lt;/h2&gt;
+
+&lt;p&gt;Kathryn is a 4 year-old with a cold.  She has just seen the GP who suggested Paracetamol Elixir 240mg/5mL, 5mL q4&amp;ndash;6h prn.&lt;/p&gt;
+
+&lt;p&gt;Kathryn weighs 16kg.&lt;/p&gt;
+
+&lt;p class=&#34;question incremental&#34;&gt;Use the AMH to determine whether this is an appropriate dose for Kathryn before going to the next slide
+&lt;/p&gt;
+
+&lt;h2 id=&#34;step-1&#34;&gt;Step 1&lt;/h2&gt;
+
+&lt;p class=&#34;question&#34;&gt;Who is the patient?
+&lt;/p&gt;
+
+&lt;p&gt;The patient is a 4 year-old child.&lt;/p&gt;
+
+&lt;p&gt;Dosing in children often depends on the child&amp;rsquo;s weight. Kathryn&amp;rsquo;s weight is 16kg&lt;/p&gt;
+
+&lt;h2 id=&#34;step-2&#34;&gt;Step 2&lt;/h2&gt;
+
+&lt;p class=&#34;question&#34;&gt;What is the indication?&lt;/p&gt;
+
+&lt;p&gt;Kathryn is being given paracetamol for discomfort and increased temperature related to a cold.&lt;/p&gt;
+
+&lt;p&gt;Indication can be important for assessing dosing. Knowing that the paracetamol is for a cold tells you that Kathryn&amp;rsquo;s symptoms are unlikely to be severe.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-3&#34;&gt;Step 3&lt;/h2&gt;
+
+&lt;p class=&#34;question&#34;&gt;What is the recommended dose?&lt;/p&gt;
+
+&lt;div class=&#34;incremental&#34;&gt;
+It is important to read the paracetamol dose carefully. It is easy to misunderstand the information provided (especially in relation to maximum dosing)
+
+__AMH__: 15mg/kg every 4--6 hours (a single dose of 30 mg/kg may be used for night-time dosing)
+
+&lt;p class=&#34;question&#34;&gt;Contrast this with the paracetamol dose provided in the APF&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;step-3-continued&#34;&gt;Step 3 (continued)&lt;/h2&gt;
+
+&lt;p class=&#34;question&#34;&gt;Calculate the recommended dose for Kathryn&lt;/p&gt;
+
+&lt;p&gt;Kathryn is 16kg, therefore:&lt;/p&gt;
+
+&lt;p&gt;15 mg/kg x 16 kg = 240mg every 4&amp;ndash;6 hours&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    What is the maximum dose you could give Kathryn?
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;step-4&#34;&gt;Step 4&lt;/h2&gt;
+
+&lt;p class=&#34;question&#34;&gt;Assess the recommended dose against the prescribed dose&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Prescribed dose   Paracetamol 240mg/5mL, 5mL q4&amp;ndash;6h prn
+                   = 240mg q4&amp;ndash;6h prn
+ Recommended dose  &lt;strong&gt;AMH&lt;/strong&gt;: 15mg/kg every 4&amp;ndash;6 hours
+                   = 15 mg/kg x 16 kg
+                   = 240mg every 4&amp;ndash;6 hours&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;step-4-continued&#34;&gt;Step 4 (continued)&lt;/h2&gt;
+
+&lt;p&gt;The dose is appropriate.&lt;/p&gt;
+
+&lt;p&gt;Note, that the AMH doesn&amp;rsquo;t specify &amp;ldquo;prn&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The indication and context of use tells us that &amp;ldquo;prn&amp;rdquo; is appropriate.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-5&#34;&gt;Step 5&lt;/h2&gt;
+
+&lt;p class=&#34;question&#34;&gt;Additional considerations&lt;/p&gt;
+
+&lt;p&gt;An important additional consideration for paracetamol dosing is clearly communicating maximum doses.&lt;/p&gt;
+
+&lt;div class=&#34;incremental&#34;&gt;
+
+&lt;p class=&#34;question&#34;&gt;The maximum dose for Kathryn is __60mg/kg per day for up to 48 hours__&lt;/p&gt;
+
+Key aspects: Kathryn is medically unsupervised; her indication doesn&#39;t warrant extended high doses.
+
+&lt;p class=&#34;question&#34;&gt;A good way to communicate this would be: Give Kathryn 5mL by measure every FOUR to SIX hours if she needs it. Take care not to give her more than FOUR doses in 24 hours.&lt;/p&gt; 
+&lt;/div&gt;
+
+&lt;h1 id=&#34;general-considerations&#34;&gt;General Considerations&lt;/h1&gt;
+
+&lt;p&gt;##&lt;/p&gt;
+
+&lt;p&gt;The following provides general guidance on assessing a prescribed dose.&lt;/p&gt;
+
+&lt;p&gt;This gets easier as you gain knowledge of the condition being treated and the ways that condition is managed.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-indication-matters&#34;&gt;The indication matters&lt;/h2&gt;
+
+&lt;p&gt;Many drugs have multiple indications; sometimes the dose between indications can vary greatly.&lt;/p&gt;
+
+&lt;p&gt;Knowing why the drug is being used will aid decisions.&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;The dosing advice you provide a mother of a 3 year-old prescribed paracetamol for mild fever associated with the common cold __should__ be different to the advice you provide the mother of a 3 year-old child suffering the pain of a middle ear infection.&lt;/p&gt;
+
+&lt;h2 id=&#34;initial-or-continuing-therapy&#34;&gt;Initial or continuing therapy?&lt;/h2&gt;
+
+&lt;p&gt;Is this the first time the patient has used this medicine?&lt;/p&gt;
+
+&lt;p&gt;Sometimes doses start high and are reduced.  More often doses start low and are gradually increased.&lt;/p&gt;
+
+&lt;p&gt;Whether or not the patient has taken this medication before will often influence whether the dose is appropriate.&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;Look up carbamazepine in the AMH. Note the first __Practice point__.&lt;/p&gt; 
+
+&lt;h2 id=&#34;the-patient-matters&#34;&gt;The patient matters&lt;/h2&gt;
+
+&lt;p&gt;Is the patient young or old? Over- or underweight? Pregnant or breastfeeding?&lt;/p&gt;
+
+&lt;p&gt;Some drugs are dosed similarly for large groups of different patients.
+Other drugs are dosed very specifically.&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;Contrast the dosing advice provided for loratadine and methotrexate.&lt;/p&gt; 
+
+&lt;p class=&#34;question&#34;&gt;NOTE: methotrexate has multiple entries in the AMH based on indication.&lt;/p&gt; 
+
+&lt;h2 id=&#34;the-patient-matters-cont&#34;&gt;The patient matters (cont.)&lt;/h2&gt;
+
+&lt;p&gt;Can the patient administer the dose you are suggesting?&lt;/p&gt;
+
+&lt;p&gt;Does a product exist that provides the dose in a way that is feasible?&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;Older children might prefer a tablet to a liquid.&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;Many people, young and old, experience difficulty swallowing. They might prefer a liquid if it is available.&lt;/p&gt; 
+
+&lt;h2 id=&#34;pharmacokinetics-matters-as-does-pharmacodynamics&#34;&gt;Pharmacokinetics matters as does pharmacodynamics&lt;/h2&gt;
+
+&lt;p&gt;Is the drug renally cleared? (Does the patient have renal impairment?)&lt;/p&gt;
+
+&lt;p&gt;Dose adjustment might be necessary in renal impairment&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;Look up colchicine&lt;/p&gt; 
+
+&lt;p&gt;Does effectiveness depend on peak concentrations, trough concentrations or steady state levels?&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;The best examples here are antibiotics and anticonvulsants.  Depending on the drug you might be targeting peak, trough or steady state concentations.&lt;/p&gt; 
+
+&lt;h2 id=&#34;pharmacokinetics-matters-as-does-pharmacodynamics-cont&#34;&gt;Pharmacokinetics matters as does pharmacodynamics (cont)&lt;/h2&gt;
+
+&lt;p&gt;Are side effects expected at the start of treatment? Do we &amp;ldquo;start low and go slow&amp;rdquo; with dose escalation?&lt;/p&gt;
+
+&lt;p&gt;This might depend on the indication.&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;Starting an opioid for chronic pain is often a matter of &#34;start low and go slow&#34;&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;Starting an opioid for acute pain due to trauma is a matter of &#34;start high and reduce when possible&#34;&lt;/p&gt; 
+
+&lt;h2 id=&#34;key-reference-texts-differ&#34;&gt;Key reference texts differ&lt;/h2&gt;
+
+&lt;p&gt;Key dosing references are AMH, APF, e-TG and MIMS (understand how they differ). It may be necessary to refer to each of them (or at least more than one).&lt;/p&gt;
+
+&lt;p&gt;When references give conflicting advice, often the best way to resolve it is to think through some of the general principles listed above.&lt;/p&gt;
+
+&lt;h2 id=&#34;sometimes-scheduling-matters&#34;&gt;Sometimes scheduling matters&lt;/h2&gt;
+
+&lt;p&gt;There are a number of Pharmacist or Pharmacy Only drugs that we discuss this semester that are scheduled according to their dose and pack size (e.g. ibuprofen).&lt;/p&gt;
+
+&lt;p&gt;If you rely on the AMH or APF dose (as opposed to the MIMS dose of the appropriate product) you may be suggesting a dose that is scheduled Prescription Only.&lt;/p&gt;
+
+&lt;h2 id=&#34;know-your-resources&#34;&gt;Know your resources&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Resources&lt;/th&gt;
+&lt;th&gt;Strengths&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;AMH&lt;/td&gt;
+&lt;td&gt;Clinical guidance on prescription medicines&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Yearly update&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Local&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Involvement of key professional bodies&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;APF&lt;/td&gt;
+&lt;td&gt;Similar to AMH, though less frequently updated&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Pharmacy focus&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;MIMS&lt;/td&gt;
+&lt;td&gt;Registered product information (but can be out of date)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Only resource that covers over-the-counter products well&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;e-TG&lt;/td&gt;
+&lt;td&gt;Focus on clinical conditions&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Dosing advice in less common conditions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Table: Key strengths of common dosing resources&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The best way to improve your ability to assess doses is to practice.&lt;/p&gt;
+
+&lt;p class=&#34;question&#34;&gt;Do the quiz!&lt;/p&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/teaching/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/courses/example/example2/</guid>
+      <guid>/teaching/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -114,6 +421,16 @@
       
       <guid>/publication/uncertpharm/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized trials are not black boxes</title>
+      <link>/talk/blackbox-presentation/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/blackbox-presentation/</guid>
+      <description>&lt;p&gt;The paper on which this talk is based is currently a work-in-progress.&lt;/p&gt;
+</description>
     </item>
     
     <item>

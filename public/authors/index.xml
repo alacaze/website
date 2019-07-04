@@ -30,16 +30,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>I am a clinical pharmacist with a PhD in the philosophy of science. I teach professional practice, therapeutics, clinical epidemiology, critical appraisal and ethics.
-My research focusses on philosophy of science, philosophy of medicine and ethics. I am particularly interested in exploring philosophical approaches to challenges that arise in interpreting and applying biomedical research. I am a member of a group of researchers in the School of Pharmacy working on better understanding medication adherence.</description>
-    </item>
-    
-    <item>
       <title>Jeffrey K. Aronson</title>
       <link>/authors/jeffrey-k.-aronson/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +1000</pubDate>
@@ -379,6 +369,16 @@ My research focusses on philosophy of science, philosophy of medicine and ethics
       
       <guid>/authors/susan-tett/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am a clinical pharmacist with a PhD in the philosophy of science. I teach professional practice, therapeutics, clinical epidemiology, critical appraisal and ethics.
+My research focusses on philosophy of science, philosophy of medicine and ethics. I am particularly interested in exploring philosophical approaches to challenges that arise in interpreting and applying biomedical research. I am a member of a group of researchers in the School of Pharmacy working on better understanding medication adherence.</description>
     </item>
     
   </channel>
