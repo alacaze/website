@@ -20,8 +20,9 @@ url_slides: ""
 url_video: ""
 ---
 
+A key theme in the philosophy of medicine examines the ways in which evidence *should* inform decisions---individual therapeutic decisions, guideline development and regulatory decisions.
 
-I am interested in the ways in which evidence from the biomedical sciences is used to inform individual therapeutic decisions. This leads to much broader questions:
+In broad terms, this project seeks to address some of the following questions:
 
 * What is the relationship between different types of biomedical evidence, including the mechanisms of basic medical science, evidence from randomized studies and the outputs of modelling and simulation approaches?
 * How should we characterise “causation” in the biomedical sciences? What types of evidence give good grounds for inferring causal relationships?

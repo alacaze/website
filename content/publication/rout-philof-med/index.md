@@ -6,5 +6,7 @@ publication_types = ["6"]
 abstract = ""
 featured = false
 publication = "*Routledge Companion to Philosophy of Medicine*"
+tags = ["Evidence and medicines"]
+projects = ["evidence-and-medicines"]
 +++
 

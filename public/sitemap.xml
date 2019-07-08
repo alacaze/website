@@ -24,7 +24,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,8 +58,20 @@
   </url>
   
   <url>
+    <loc>/tags/evidence-and-medicines/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,13 +81,24 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <loc>/tags/pharmacy-ethics/</loc>
+    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/evidence-and-medicines/</loc>
+    <loc>/project/cm-ethics-apsa/</loc>
+    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -83,12 +106,6 @@
   <url>
     <loc>/talk/blackbox-presentation/</loc>
     <lastmod>2019-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -106,12 +123,6 @@
   <url>
     <loc>/project/evidence-and-medicines/</loc>
     <lastmod>2019-06-28T14:41:02+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-06-28T14:41:02+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

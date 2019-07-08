@@ -6,5 +6,7 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Journal of Medicine and Philosophy*"
+tags = ["Evidence and medicines"]
+projects = ["evidence-and-medicines"]
 +++
 

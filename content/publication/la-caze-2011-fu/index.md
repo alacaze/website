@@ -6,5 +6,7 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Evidence-based medicine*"
+tags = ["Evidence and medicines"]
+projects = ["evidence-and-medicines"]
 +++
 

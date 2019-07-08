@@ -46,8 +46,11 @@ user_groups:
 ---
 
 I am a clinical pharmacist with a PhD in the philosophy of science.
+My research focusses on philosophy of science, philosophy of medicine and ethics. I am particularly interested in exploring philosophical approaches to challenges that arise in interpreting and applying biomedical research. 
+
+I am also a member of a group of researchers in the School of Pharmacy working on better understanding medication adherence.
+
 I teach professional practice, therapeutics, clinical epidemiology, critical appraisal and ethics.
 
-My research focusses on philosophy of science, philosophy of medicine and ethics. I am particularly interested in exploring philosophical approaches to challenges that arise in interpreting and applying biomedical research. I am a member of a group of researchers in the School of Pharmacy working on better understanding medication adherence.
 
 

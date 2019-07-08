@@ -6,10 +6,19 @@
     <description>Recent content in Projects on Adam La Caze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pharmacy ethics and complementary medicines</title>
+      <link>/project/cm-ethics-apsa/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cm-ethics-apsa/</guid>
+      <description>Evaluating pharmacist responsibilities when selling complementary medicines</description>
+    </item>
     
     <item>
       <title>Evidence and Medicines</title>

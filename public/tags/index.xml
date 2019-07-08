@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Adam La Caze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Evidence and medicines</title>
       <link>/tags/evidence-and-medicines/</link>
-      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1000</pubDate>
       
       <guid>/tags/evidence-and-medicines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacy ethics</title>
+      <link>/tags/pharmacy-ethics/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pharmacy-ethics/</guid>
       <description></description>
     </item>
     
